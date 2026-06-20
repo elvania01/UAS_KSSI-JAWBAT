@@ -117,7 +117,7 @@ UAS/
 ```bash
 git clone https://github.com/username/UAS-KSSI.git
 
-cd UAS-KSSI
+cd UAS_KSSI-JAWBAT
 ```
 
 ---
